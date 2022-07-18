@@ -14,6 +14,9 @@
         }
       },
       "root": "",
+      "i18n": {
+        "sourceLocale": "tr"
+      },
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
@@ -31,7 +34,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/primeicons/primeicons.css",
+              "node_modules/primeng/resources/themes/lara-light-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/primeflex/primeflex.css"
             ],
             "scripts": []
           },

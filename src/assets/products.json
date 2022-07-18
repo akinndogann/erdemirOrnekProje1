@@ -1,0 +1,64 @@
+{
+	"data": [
+		{
+			"name": "Kireç(kg)",
+      "usedQuantity": 110250,
+      "difference": 0,
+      "date":"07-01-2022"
+		},
+		{
+			"name": "Florit(kg)",
+      "usedQuantity": 12485,
+      "difference": 0,
+      "date":"07-01-2022"
+		},
+		{
+			"name": "Mix(kg)",
+      "usedQuantity": 116929,
+      "difference": 0,
+      "date":"07-01-2022"
+		},
+		{
+			"name": "Magnezyum(kg)",
+      "usedQuantity": 142300,
+      "difference": 0,
+      "date":"07-01-2022"
+		},
+		{
+			"name": "Kriyolitli Magnezyum(kg)",
+      "usedQuantity": 12350,
+      "difference": 0,
+      "date":"07-01-2022"
+		},
+    {
+			"name": "Kireç(kg)",
+      "usedQuantity": 110250,
+      "difference": 0,
+      "date":"02-07-2022"
+		},
+		{
+			"name": "Florit(kg)",
+      "usedQuantity": 12485,
+      "difference": 0,
+      "date":"02-07-2022"
+		},
+		{
+			"name": "Mix(kg)",
+      "usedQuantity": 116929,
+      "difference": 0,
+      "date":"02-07-2022"
+		},
+		{
+			"name": "Magnezyum(kg)",
+      "usedQuantity": 142300,
+      "difference": 0,
+      "date":"02-07-2022"
+		},
+		{
+			"name": "Kriyolitli Magnezyum(kg)",
+      "usedQuantity": 12350,
+      "difference": 0,
+      "date":"02-07-2022"
+		}
+	]
+}
